@@ -1,0 +1,6 @@
+Accuracy: 84.51%
+F1 score: 0.7731
+Confusion matrix:
+[[22122  1995]
+ [ 3900 10042]]
+Average GPU Power Usage: 244.63 W
